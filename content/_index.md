@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/HJPark_CV_December2024.pdf
     design:
       css_class: dark
       background:
@@ -32,14 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Current Research in short'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Low-metallicity galaxies are lack in CO, a tracer of molecular clouds in bigger galaxies. A possible scenario of its deficiency is that CO is more easily dissociated by high-energy photons due to the small amount of metals and dust in low-metallicity systems, indicating that more CO-dark gas exists. This led me to a question of 'how can we trace star-forming gas in different metallicity galaxies?'. In this study, I am tracing narrow HI components, bridging atomic to molecular hydrogen gas phase, using HI 21cm data of nearby galaxies, and studying how well the narrow HI components are linked to star formation activities. This study is in progress, please stay tuned for paper out! 
     design:
       columns: '1'
   - block: collection

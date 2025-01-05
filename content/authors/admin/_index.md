@@ -3,7 +3,7 @@
 title: Hye-Jin Park
 
 # Name pronunciation (optional)
-name_pronunciation: Héjin Park
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Hye-Jin
@@ -46,6 +46,12 @@ interests:
   - Dwarf galaxies
 
 education:
+  - area: PhD Astronomy (in progress)
+    institution: Australian National University
+    date_start: 2022-03-01
+    date_end: 2025-10-22
+    summary: |
+      Interstellar medium in nearby galaxies
   - area: MSc Astronomy
     institution: Sejong University
     date_start: 2019-09-02
@@ -59,17 +65,32 @@ education:
     summary: |
       
 work:
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Post-MSc Research Assistant
+    company_name: Sejong University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2022-01-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Supervisor: A/Prof Se-Heon Oh
+
+  - position: Graduate Research Assistant
+    company_name: Sejong University
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-09-01
+    date_end: 2021-08-30
+    summary: |
+      Supervisor: A/Prof Se-Heon Oh
+  
+  - position: Undergraduate Research Assistant
+    company_name: Chungnam National University
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-08-01
+    date_end: 2019-08-01
+    summary: |
+      Supervisor: Prof Young Sun Lee
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -88,22 +109,6 @@ skills:
         description: ''
         percent: 5
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Badminton
-        description: ''
-        percent: 
-        icon: person-simple-walk
-      - name: Running
-        description: ''
-        percent: 
-        icon: cat
-      - name: Skiing
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
