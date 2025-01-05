@@ -46,16 +46,6 @@ interests:
   - Dwarf galaxies
 
 education:
-  - area: PhD Astronomy
-    institution: Australian National University
-    date_start: 2022-03-01
-    date_end: present
-    summary: |
-      Interstellar Medium
-      
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: MSc Astronomy
     institution: Sejong University
     date_start: 2019-09-02
