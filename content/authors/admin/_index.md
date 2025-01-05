@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Hye-Jin Park
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Héjin Park
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hye-Jin
+last_name: Park
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: 😌
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,54 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Australian National University
+    url: https://rsaa.anu.edu.au/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'hyejin.park@anu.edu.au'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/astro_h_park
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://github.com/astro-hjpark
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9809-6631
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Interstellar medium
+  - Galaxy evolution
+  - Dwarf galaxies
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Astronomy
+    institution: Australian National University
+    date_start: 2022-03-01
+    date_end: present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Interstellar Medium
+      
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Astronomy
+    institution: Sejong University
+    date_start: 2019-09-02
+    date_end: 2022-08-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Gas dynamics and star formation in NGC 6822
+  - area: BSc Astronomy
+    institution: Chungnam National University
+    date_start: 2015-03-02
+    date_end: 2019-08-31
     summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -114,40 +99,38 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: IDL
         description: ''
-        percent: 40
+        percent: 10
+        icon: chart-bar
+      - name: Fortran
+        description: ''
+        percent: 5
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
-        percent: 60
+        percent: 
         icon: person-simple-walk
-      - name: Cats
+      - name: Running
         description: ''
-        percent: 100
+        percent: 
         icon: cat
-      - name: Photography
+      - name: Skiing
         description: ''
         percent: 80
         icon: camera
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 
+  - name: Korean
+    percent: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
