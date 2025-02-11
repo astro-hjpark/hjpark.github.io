@@ -35,31 +35,30 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/astro_h_park
-  - icon: brands/github
-    url: https://github.com/astro-hjpark
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9809-6631
 
 interests:
   - Interstellar medium
   - Galaxy evolution
-  - Dwarf galaxies
+  - Multi-wavelength data
+  - Radio observations
 
 education:
-  - area: PhD Astronomy (in progress)
-    institution: Australian National University
+  - area: PhD Astronomy (expected to complete in 2025)
+    institution: Australian National University, Canberra, Australia
     date_start: 2022-03-01
     date_end: 2025-10-22
     summary: |
       Interstellar medium in nearby galaxies
-  - area: MSc Astronomy
-    institution: Sejong University
+  - area: MSc Astronomy and Space Science
+    institution: Sejong University, Seoul, S. Korea
     date_start: 2019-09-02
     date_end: 2022-08-31
     summary: |
       Gas dynamics and star formation in NGC 6822
-  - area: BSc Astronomy
-    institution: Chungnam National University
+  - area: BSc Astronomy and Space Science
+    institution: Chungnam National University, Daejeon, S. Korea
     date_start: 2015-03-02
     date_end: 2019-08-31
     summary: |
@@ -72,7 +71,7 @@ work:
     date_start: 2021-09-01
     date_end: 2022-01-30
     summary: |
-      Supervisor: A/Prof Se-Heon Oh
+      Supervisor: A/Prof. Se-Heon Oh
 
   - position: Graduate Research Assistant
     company_name: Sejong University
@@ -81,7 +80,7 @@ work:
     date_start: 2019-09-01
     date_end: 2021-08-30
     summary: |
-      Supervisor: A/Prof Se-Heon Oh
+      Supervisor: A/Prof. Se-Heon Oh
   
   - position: Undergraduate Research Assistant
     company_name: Chungnam National University
@@ -90,7 +89,7 @@ work:
     date_start: 2018-08-01
     date_end: 2019-08-01
     summary: |
-      Supervisor: Prof Young Sun Lee
+      Supervisor: Prof. Young Sun Lee
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -150,4 +149,4 @@ awards:
 
 ## About Me
 
-I am a PhD student at Australian National University, working on interstellar medium including dust, gas and metals. 
+Hi! I am a PhD student at Australian National University, Canberra, Australia. I am interested in any research fields related to interstellar medium in galaxies, their interplay within galaxies, and its link to the galaxy evolution. 
